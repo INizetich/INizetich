@@ -72,5 +72,5 @@
 ### ✍️ Firma
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Gracias+por+visitar+mi+perfil!;Nos+vemos+en+el+pr%C3%B3ximo+commit+%F0%9F%91%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Gracias+por+visitar+mi+perfil! alt="Typing SVG" />
 </p>
