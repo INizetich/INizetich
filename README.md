@@ -44,14 +44,6 @@
 
 ---
 
-### 🏆 Trofeos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=INizetich&theme=algolia&no-frame=true&title=Stars,Commits,Followers,Repositories,PullRequest,Issues&column=3&bg_color=00000000" />
-</p>
-
----
-
 ### 🔥 Racha de commits
 
 <p align="center">
@@ -73,13 +65,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INizetich&layout=compact&theme=algolia&hide_border=true&langs_count=8&exclude_repo=galeria-crystal&bg_color=00000000" />
-</p>
----
-
-### 🐍 Animación de commits (snake)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/INizetich/INizetich/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
