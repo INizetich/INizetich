@@ -26,7 +26,7 @@
 ### 📌 Proyectos destacados
 
 - 💼 [**ArCashApp**](https://github.com/INizetich/ArCashApp): App de billetera virtual simulada (Spring Boot, JWT, SPA)
-- 📸 [**Sitio especial para Crystal**](https://github.com/INizetich/TP-FINAL): Aplicacion para check in de vuelos y manejo de roles entre usuarios y administradores
+- 📸 [**Manejo aeroportuario**](https://github.com/INizetich/TP-FINAL): Aplicacion para check in de vuelos y manejo de roles entre usuarios y administradores
 - 📦 [**Automatización de descargas**](https://github.com/INizetich/simple-solutions-downloader): Script con Selenium para extraer documentos de plataforma de consorcios
 
 ---
@@ -44,6 +44,22 @@
 
 ---
 
+### 🏆 Trofeos
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=INizetich&theme=algolia&no-frame=true&title=Stars,Commits,Followers,Repositories,PullRequest,Issues&column=3" />
+</p>
+
+---
+
+### 🔥 Racha de commits
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=INizetich&theme=radical&hide_border=true" />
+</p>
+
+---
+
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
@@ -53,6 +69,16 @@
 
 ---
 
+### 🐍 Animación de commits (snake)
+
 <p align="center">
-  ¡Gracias por visitar mi perfil! 😊
+  <img src="https://raw.githubusercontent.com/INizetich/INizetich/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### ✍️ Firma
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Gracias+por+visitar+mi+perfil!;Nos+vemos+en+el+pr%C3%B3ximo+commit+%F0%9F%91%BB" alt="Typing SVG" />
 </p>
