@@ -60,11 +60,18 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📈 Estadísticas generales
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=INizetich&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INizetich&layout=donut&theme=radical&hide_border=true&langs_count=6&exclude_repo=galeria-crystal" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=INizetich&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
+
+---
+
+### 🧠 Lenguajes más usados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INizetich&layout=compact&theme=algolia&hide_border=true&langs_count=8&exclude_repo=galeria-crystal" />
 </p>
 
 ---
