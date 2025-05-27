@@ -47,7 +47,7 @@
 ### 🏆 Trofeos
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=INizetich&theme=algolia&no-frame=true&title=Stars,Commits,Followers,Repositories,PullRequest,Issues&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=INizetich&theme=algolia&no-frame=true&title=Stars,Commits,Followers,Repositories,PullRequest,Issues&column=3&bg_color=00000000" />
 </p>
 
 ---
@@ -55,15 +55,16 @@
 ### 🔥 Racha de commits
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=INizetich&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=INizetich&theme=radical&hide_border=true&bg_color=00000000" />
 </p>
+
 
 ---
 
 ### 📈 Estadísticas generales
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=INizetich&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=INizetich&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" />
 </p>
 
 ---
@@ -71,9 +72,8 @@
 ### 🧠 Lenguajes más usados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INizetich&layout=compact&theme=algolia&hide_border=true&langs_count=8&exclude_repo=galeria-crystal" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INizetich&layout=compact&theme=algolia&hide_border=true&langs_count=8&exclude_repo=galeria-crystal&bg_color=00000000" />
 </p>
-
 ---
 
 ### 🐍 Animación de commits (snake)
