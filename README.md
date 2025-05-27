@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Ignacio Nizetich</h1>
-<h3 align="center">Estudiante de programación en UTN y apasionado por el backend</h3>
+<h3 align="center">Desarrollador Backend</h3>
 
 ---
 
@@ -26,7 +26,7 @@
 ### 📌 Proyectos destacados
 
 - 💼 [**ArCashApp**](https://github.com/INizetich/ArCashApp): App de billetera virtual simulada (Spring Boot, JWT, SPA)
-- 📸 [**Sitio especial para Crystal**](https://github.com/INizetich/galeria-crystal): Página con galería personalizada, música y animaciones
+- 📸 [**Sitio especial para Crystal**](https://github.com/INizetich/TP-FINAL): Aplicacion para check in de vuelos y manejo de roles entre usuarios y administradores
 - 📦 [**Automatización de descargas**](https://github.com/INizetich/simple-solutions-downloader): Script con Selenium para extraer documentos de plataforma de consorcios
 
 ---
@@ -47,8 +47,8 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=INizetich&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INizetich&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=INizetich&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INizetich&layout=donut&theme=radical&hide_border=true&langs_count=6&exclude_repo=galeria-crystal" alt="Top Langs" width="48%" />
 </p>
 
 ---
