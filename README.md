@@ -27,7 +27,6 @@
 
 - 💼 [**ArCashApp**](https://github.com/INizetich/ArCashApp): App de billetera virtual simulada (Spring Boot, JWT, SPA)
 - 📸 [**Manejo aeroportuario**](https://github.com/INizetich/TP-FINAL): Aplicacion para check in de vuelos y manejo de roles entre usuarios y administradores
-- 📦 [**Automatización de descargas**](https://github.com/INizetich/simple-solutions-downloader): Script con Selenium para extraer documentos de plataforma de consorcios
 
 ---
 
