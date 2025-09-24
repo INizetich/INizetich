@@ -31,7 +31,7 @@
 
 - 💼 [**ArCashApp**](https://github.com/INizetich/ArCashApp): App de billetera virtual simulada (Spring Boot, JWT, SPA)
 - 📸 [**Manejo aeroportuario**](https://github.com/INizetich/TP-FINAL): Aplicacion para check in de vuelos y manejo de roles entre usuarios y administradores
-- 📦 [**Stock Master**] (https://github.com/INizetich/Stock-Master): Aplicacion de control de stock completa Con inicio de sesion y autenticacion con Google
+- 📦 [**Stock Master**](https://github.com/INizetich/Stock-Master): Aplicacion de control de stock completa Con inicio de sesion y autenticacion con Google
 
 ---
 
