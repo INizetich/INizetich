@@ -20,6 +20,10 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
 
@@ -27,6 +31,7 @@
 
 - 💼 [**ArCashApp**](https://github.com/INizetich/ArCashApp): App de billetera virtual simulada (Spring Boot, JWT, SPA)
 - 📸 [**Manejo aeroportuario**](https://github.com/INizetich/TP-FINAL): Aplicacion para check in de vuelos y manejo de roles entre usuarios y administradores
+- 📦 [**Stock Master**] (https://github.com/INizetich/Stock-Master): Aplicacion de control de stock completa Con inicio de sesion y autenticacion con Google
 
 ---
 
@@ -48,7 +53,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=INizetich&theme=radical&hide_border=true&bg_color=00000000" />
 </p>
-
 
 ---
 
