@@ -8,7 +8,7 @@
 - 🎓 Estudiante de **Tecnicatura Superior en Programación**  
 - 📍 Vivo en *Mar del Plata, Argentina*
 - 💡 Apunto a convertirme en **desarrollador backend**
-- 🔎 Actualmente estoy trabajando en una **billetera virtual simulada** y explorando **Spring Boot y APIs REST**
+- 🔎 Actualmente estoy trabajando en una **E-commerce de productos genericos** y profunziando mas en **Spring Boot y APIs REST junto a Angular y TypeScript**
 
 ---
 
