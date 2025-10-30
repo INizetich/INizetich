@@ -44,6 +44,16 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+### 📬 Contact
+
+<a href="mailto:nizetich.ignacio@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ignacio-nizetich-537324183" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
 ---
 
 ### 📌 Featured Projects
@@ -54,16 +64,6 @@
 
 ---
 
-### 📬 Contact
-
-<a href="mailto:nizetich.ignacio@gmail.com" target="_blank">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ignacio-nizetich-537324183" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
----
 
 ### 🏆 GitHub Trophies
 
