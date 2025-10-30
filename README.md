@@ -5,7 +5,7 @@
 
 ### 🧑‍🎓 Sobre mí
 
-- 🎓 Estudiante de **Tecnicatura Superior en Programación**  
+- 🎓 Estudiante de **Tecnicatura Superior en Programación**  
 - 📍 Vivo en *Mar del Plata, Argentina*
 - 💡 Apunto a convertirme en **desarrollador backend**
 - 🔎 Actualmente estoy trabajando en una **E-commerce de productos genericos** y profundizando mas en **Spring Boot y APIs REST junto a Angular y TypeScript**
@@ -22,10 +22,16 @@
 ### ⚙️ Backend
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔧 Herramientas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
@@ -42,12 +48,12 @@
 ### 📬 Contacto
 
 <p align="left">
-  <a href="mailto:nizetich.ignacio@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ignacio-nizetich-537324183" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="mailto:nizetich.ignacio@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ignacio-nizetich-537324183" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -55,7 +61,7 @@
 ### 🔥 Racha de commits
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=INizetich&theme=radical&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=INizetich&theme=radical&hide_border=true&bg_color=00000000" />
 </p>
 
 ---
@@ -63,7 +69,7 @@
 ### 📈 Estadísticas generales
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=INizetich&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=INizetich&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" />
 </p>
 
 ---
@@ -71,7 +77,7 @@
 ### 🧠 Lenguajes más usados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INizetich&layout=compact&theme=algolia&hide_border=true&langs_count=8&exclude_repo=galeria-crystal&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INizetich&layout=compact&theme=algolia&hide_border=true&langs_count=8&exclude_repo=galeria-crystal&bg_color=00000000" />
 </p>
 
 ---
@@ -79,5 +85,5 @@
 ### ✍️ Firma
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Gracias+por+visitar+mi+perfil!;Nos+vemos+en+el+pr%C3%B3ximo+commit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Gracias+por+visitar+mi+perfil!;Nos+vemos+en+el+pr%C3%B3ximo+commit" alt="Typing SVG" />
 </p>
