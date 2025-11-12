@@ -69,7 +69,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=INizetich&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ignacionizetich&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ### 📈 General Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=INizetich&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ignacionizetich&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" />
 </p>
 
 ---
@@ -85,7 +85,7 @@
 ### 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INizetich&layout=compact&theme=algolia&hide_border=true&langs_count=8&exclude_repo=galeria-crystal&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignacionizetich&layout=compact&theme=algolia&hide_border=true&langs_count=8&exclude_repo=galeria-crystal&bg_color=00000000" />
 </p>
 
 ---
